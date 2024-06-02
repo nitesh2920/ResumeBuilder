@@ -1,0 +1,10 @@
+.home{
+    background: url('../../assets/wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-color:rgb(147 2 237);
+    height: 100vh;
+    @media screen and (max-width:900px) {
+        height: auto;
+    }
+}
